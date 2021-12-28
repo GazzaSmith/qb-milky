@@ -1,0 +1,37 @@
+  Skyline développement 
+     https://discord.gg/qp7Wc4P26A
+
+
+
+
+
+
+
+
+
+["milk"] = {
+        ["name"] = "milk",
+        ["label"] = "milk",
+        ["weight"] = 500,
+        ["type"] = "item",
+        ["image"] = "milk.png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "milk."
+    },
+    ["milkbotle"] = {
+        ["name"] = "milkbotle",
+        ["label"] = "milkbotle",
+        ["weight"] = 500,
+        ["type"] = "item",
+        ["image"] = "milkbotle.png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "milkbotle."
+    },
+
+
